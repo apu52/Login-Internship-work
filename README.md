@@ -33,7 +33,7 @@ EduCase is a user authentication flow project developed as part of my internship
 
 | Login Page | Sign Up Options | Sign Up Form | Profile Page |
 |------------|------------------|--------------|----------------|
-| ![Login](./download%20(1).png) | ![Sign Up Options](./download%20(2).png) | ![Sign Up Form](./download%20(3).png) | ![Profile](./download.png) |
+| ![Screenshot 2025-06-15 001149](https://github.com/user-attachments/assets/dfaa51fc-cd19-4c11-bcec-73915bb93ae9) | ![Screenshot 2025-06-15 001416](https://github.com/user-attachments/assets/245f6bc9-dd82-4dc9-82cc-70724ce169b5)| ![Screenshot 2025-06-15 002130](https://github.com/user-attachments/assets/3c602f72-be6f-44e8-b3a1-4bbdf70f61b0) | ![image](https://github.com/user-attachments/assets/bf65df95-9d1c-4a14-80fb-fefdef52e6f7) |
 
 ## 🛠️ Tech Stack
 
