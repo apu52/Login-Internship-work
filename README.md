@@ -62,7 +62,7 @@ EduCase is a user authentication flow project developed as part of my internship
 
 1. Clone the repo  
 ```bash
-git clone https://github.com/your-username/educase-project.git
+git clone https://github.com/apu52/Login-Internship-work.git
 cd educase-project
 ```
 
@@ -73,11 +73,11 @@ npm install
 
 3. Start the development server  
 ```bash
-npm start
+npm start or npm run dev
 ```
 
 4. Open in browser  
-Visit `http://localhost:3000`
+Visit `http://localhost:8080`
 
 ## 🙋‍♂️ Author
 
